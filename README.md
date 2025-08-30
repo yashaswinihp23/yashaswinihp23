@@ -18,6 +18,6 @@
 💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yashaswini-hp-2003hp123)
- | [Email]-(yashaswinihp23123@gmail.com).
+ | [Email](yashaswinihp23123@gmail.com).
 
 
