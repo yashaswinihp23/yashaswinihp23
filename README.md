@@ -2,8 +2,6 @@
 
 <h1>I am Yashaswini</h1>
 <h3>Java Full Stack Developer</h3>
-**yashaswinihp23/yashaswinihp23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 🚀 About Me
 
