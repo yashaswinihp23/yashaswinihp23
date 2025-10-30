@@ -10,7 +10,18 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a multi-step Bike Service Booking Application using Spring Boot, Thymeleaf, and MySQL.  <br>🌱 I’m learning Java Full Stack Development (Spring Boot, React, SQL) and exploring DevOps tools.  <br>👯 I’m looking to collaborate on open-source projects in Full Stack Development and business automation solutions.  <br>🤔 I’m seeking help with optimizing backend workflows and scaling Spring Boot applications.  <br>💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.</p>
+<p align="left">
+  🔭 I’m currently working on a multi-step Bike Service Booking Application using Spring Boot, Thymeleaf, and MySQL.<br>
+  🌱 I’m learning Java Full Stack Development (Spring Boot, React, SQL) and exploring DevOps tools.<br>
+  👯 I’m looking to collaborate on open-source projects in Full Stack Development and business automation solutions.<br>
+  🤔 I’m seeking help with optimizing backend workflows and scaling Spring Boot applications.<br>
+  💬 Ask me about Java, Spring Boot, REST APIs, React, SQL, and project structuring.<br><br>
+
+  📫 Reach me at:
+  <a href="mailto:yashaswinihp23123@gmail.com">yashaswinihp23123@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">linkedin.com/in/YOUR-LINKEDIN-USERNAME</a><br>
+  🌐 Portfolio: <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">your-portfolio-link</a>
+</p>
 
 ###
 
