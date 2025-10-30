@@ -19,8 +19,10 @@
 
   📫 Reach me at:
   <a href="mailto:yashaswinihp23123@gmail.com">yashaswinihp23123@gmail.com</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">linkedin.com/in/YOUR-LINKEDIN-USERNAME</a><br>
-  🌐 Portfolio: <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">your-portfolio-link</a>
+  💼 LinkedIn:
+  <a href="https://www.linkedin.com/in/yashaswini-hp-2003hp123" target="_blank">linkedin.com/in/yashaswini-hp-2003hp123</a><br>
+  🌐 Portfolio:
+  <a href="https://yashaswinihp.framer.website/" target="_blank">yashaswinihp.framer.website</a>
 </p>
 
 ###
